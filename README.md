@@ -53,6 +53,7 @@ SocialSync AI uses a multi-agent architecture where each agent has a specific ro
 
 ## 🏗️ Architecture
 
+```
 socialsync-ai/
 ├── backend/                    # Python FastAPI
 │   ├── main.py                 # API orchestrator
@@ -64,7 +65,7 @@ socialsync-ai/
 └── frontend/                   # Next.js + Tailwind CSS
 └── app/
 └── page.tsx                    # Main UI
-
+```
 ---
 
 ## 🚀 Setup Instructions
@@ -143,5 +144,7 @@ Open [http://localhost:3000](http://localhost:3000)
 B.Tech CSE @ Manipal University Jaipur
 BS-MS in AI & Cybersecurity @ IIT Patna  
 GitHub: [@aalya-gupta05](https://github.com/aalya-gupta05)
+
+---
 
 *Built for the Kaggle AI Agents Intensive Vibe Coding Capstone Project, 2026*
